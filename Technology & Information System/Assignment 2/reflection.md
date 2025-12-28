@@ -1,0 +1,3 @@
+Attending the industry talk organised by PPG gave me valuable exposure to how knowledge gained in the classroom is applied in real workplace settings. Through the sharing sessions by industry practitioners, I gained a better understanding of how technologies such as ICT infrastructure, data-driven solutions, cloud platforms, and enterprise systems are utilised to support business operations.
+
+The talk also motivated me to continuously improve both my technical abilities and soft skills so that I can be more competitive in the future job market. Overall, the session emphasised the importance of being adaptable, self-motivated, and willing to learn in order to keep up with the fast-paced development of the technology industry.
