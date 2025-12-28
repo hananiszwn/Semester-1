@@ -1,0 +1,5 @@
+UTMDigital Open Day provided valuable exposure and meaningful benefits to students. The programme broadened my understanding of the technology field and helped me gain a clearer perspective on potential career directions. Through visits to the data centre and participation in various talks, I was able to observe how technology is organised, managed, and applied in real working environments, including the use of agile practices and the scrum framework.
+
+In addition, I was given the opportunity to interview a UTMDigital staff member, which allowed me to experience basic interview skills in a professional setting. This interaction increased my interest and motivation towards future involvement in the technology industry.
+
+Previously, my understanding of information technology was mainly based on theoretical knowledge. However, this visit allowed me to see how systems are implemented in real-life operations. UTMDigital has developed and maintains several important platforms such as the MyUTM Portal, e-Learning system, campus Wi-Fi services, and other management systems that support daily activities of students and staff.
