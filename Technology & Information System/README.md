@@ -25,10 +25,10 @@ and design simple solutions that integrate technology effectively.
 ### ASSESSMENT
 
 ##### CONTINOUS
-- Assignment 1 (10%)
-- Assignment 2 (7%)
-- Assignment 3 (7%)
-- Assignment 4 (10%)
+- Assignment 1 Format:Video(10%)
+- Assignment 2 Format:Poster(7%)
+- Assignment 3 Format:Report(7%)
+- Assignment 4 Format:Newsletter(10%)
 - PC Assemble (Quiz) (6%)
 - Mid Term (Online Test) (15%)
 - Project: Design Thinking (Low Fidelity Prototype) (15%)
